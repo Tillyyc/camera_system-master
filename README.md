@@ -1,18 +1,18 @@
 # ECE 532 Project - Rock, Paper, Scissors 
-# Project Overview
+## Project Overview
 xxx
-# Hardware requirement
+## Hardware requirement
 xxx
 
-# Design Tree & File Description
+## Design Tree & File Description
 xxx
-# How to Run
+## How to Run
 xx
-# CNN training & python files
+## CNN training & python files
 xx
-# CNN Accelerator Testbench
+## CNN Accelerator Testbench
 xx
-# Related Links
+## Related Links
 xxx
 
  
