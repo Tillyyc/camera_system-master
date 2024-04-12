@@ -16,9 +16,11 @@ xxx
 ## How to Run
 xx
 ## CNN training & python files
-xx
+[training file](rps_v4_pytorch.ipynb)
+
 ## CNN Accelerator Testbench
-xx
+tb/tb_conv.v
+
 ## Related Links
 Slides:
 Reports:
