@@ -12,7 +12,7 @@ Our design includes 5 parts:
 1. Nexys Video Board 
 2. Ov7670 Camera Module 
 3. HDMI Cable 
-4. Vivado 2018.3 
+4. Vivado 2018.3 <br>
 **Software:**<br>
 1. Google Colab <br>
 2. Pytorch <br>
@@ -20,13 +20,17 @@ Our design includes 5 parts:
 ## Design Tree & File Description
 xxx
 ## How to Run
-xx
+1. download and open .xpr file in the project folder
+2. synthesize
+3. implement
+4. generate bit stream
+5. load to FPGA board
 ## CNN training (Pytorch) & weights files
 [Training file](CNNPythonFiles/rps_v4_pytorch.ipynb) <br>
 [Weights](CNNPythonFiles/weights)
 ## CNN Accelerator Testbench
 [CNN testbench](testbenches/tb_conv.v)
-
+The results can be observed in the waveform.
 ## Related Links
 Slides: [FinalDemo_Slides_Group14.pdf](Documents/FinalDemo_Slides_Group14.pdf) <br>
 Reports: <br>
