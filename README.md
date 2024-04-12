@@ -9,13 +9,13 @@ Our design includes 5 parts:
 5. rock paper scissor game logic v.s computer
 ## Resources and equipment
 **Hardware:**<br>
-Nexys Video Board <br>
-Ov7670 Camera Module <br>
-HDMI Cable <br>
-Vivado 2018.3 <br>
+1. Nexys Video Board 
+2. Ov7670 Camera Module 
+3. HDMI Cable 
+4. Vivado 2018.3 
 **Software:**<br>
-Google Colab <br>
-Pytorch <br>
+1. Google Colab <br>
+2. Pytorch <br>
 
 ## Design Tree & File Description
 xxx
