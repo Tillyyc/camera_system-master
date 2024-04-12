@@ -16,7 +16,7 @@ xxx
 ## How to Run
 xx
 ## CNN training & python files
-[Training file](cnnTraining/rps_v4_pytorch.ipynb)
+[Training file](cnnTraining/rps_v4_pytorch.ipynb) <br>
 [Weights](cnnTraining/weights)
 ## CNN Accelerator Testbench
 tb/tb_conv.v
