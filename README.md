@@ -19,7 +19,7 @@ xx
 [Training file](cnnTraining/rps_v4_pytorch.ipynb) <br>
 [Weights](cnnTraining/weights)
 ## CNN Accelerator Testbench
-tb/tb_conv.v
+[CNN testbench](testbenches/tb_conv.v)
 
 ## Related Links
 Slides: [FinalDemo_Slides_Group14.pdf](Documents/FinalDemo_Slides_Group14.pdf) <br>
