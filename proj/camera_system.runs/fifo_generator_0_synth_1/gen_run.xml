@@ -7,7 +7,7 @@
   <File Type="RDS-UTIL-PB" Name="fifo_generator_0_utilization_synth.pb"/>
   <File Type="RDS-DCP" Name="fifo_generator_0.dcp"/>
   <FileSet Name="sources" Type="BlockSrcs" RelSrcDir="$PSRCDIR/fifo_generator_0">
-    <File Path="$PPRDIR/../src/ip/fifo_generator_0/fifo_generator_0.xci">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/ip/fifo_generator_0/fifo_generator_0.xci">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
@@ -20,7 +20,7 @@
     </Config>
   </FileSet>
   <FileSet Name="constrs_in" Type="BlockSrcs" RelSrcDir="$PSRCDIR/fifo_generator_0">
-    <File Path="$PPRDIR/../src/ip/fifo_generator_0/fifo_generator_0.xci">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/ip/fifo_generator_0/fifo_generator_0.xci">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>

@@ -1,0 +1,60 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Fri Apr 12 16:13:02 2024
+# Process ID: 11128
+# Current directory: C:/Users/yycti/Downloads/ECE532_proj_files/camera-system-top/camera_system-master/proj
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19944 C:\Users\yycti\Downloads\ECE532_proj_files\camera-system-top\camera_system-master\proj\camera_system.xpr
+# Log file: C:/Users/yycti/Downloads/ECE532_proj_files/camera-system-top/camera_system-master/proj/vivado.log
+# Journal file: C:/Users/yycti/Downloads/ECE532_proj_files/camera-system-top/camera_system-master/proj\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/yycti/Downloads/ECE532_proj_files/camera-system-top/camera_system-master/proj/camera_system.xpr
+INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'C:/Users/yycti/Downloads/ECE532_proj_files/camera-system-top/camera_system-master/proj'
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/include_these_files/integration/verilog/Matrix_Generate_3x3_1Bit.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/include_these_files/integration/verilog/Mini_LeNet.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/include_these_files/integration/verilog/cmos_capture_data.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/include_these_files/integration/verilog/conv1.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/include_these_files/integration/verilog/conv2.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/include_these_files/integration/verilog/conv2_single.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/include_these_files/integration/verilog/dilation_detector.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/include_these_files/integration/verilog/erosion_detector.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/include_these_files/integration/verilog/imopen.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/include_these_files/integration/verilog/key_debounce.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/include_these_files/integration/verilog/linear.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/include_these_files/integration/verilog/maxpool.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/include_these_files/integration/verilog/predict_index.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/include_these_files/integration/verilog/reshape.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/include_these_files/integration/verilog/rgb2bin_process.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/include_these_files/integration/verilog/rgb2ycbcr.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/include_these_files/integration/verilog/shift_register_2taps_1Bit.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/include_these_files/integration/verilog/state_machine.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/include_these_files/integration/verilog/top.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/integration/verilog/Matrix_Generate_3x3_1Bit.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/integration/verilog/Mini_LeNet.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/integration/verilog/cmos_capture_data.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/integration/verilog/conv1.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/integration/verilog/conv2.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/integration/verilog/conv2_single.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/integration/verilog/dilation_detector.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/integration/verilog/erosion_detector.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/integration/verilog/imopen.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/integration/verilog/key_debounce.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/integration/verilog/linear.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/integration/verilog/maxpool.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/integration/verilog/predict_index.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/integration/verilog/reshape.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/integration/verilog/shift_register_2taps_1Bit.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/integration/verilog/state_machine.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/ECE532_proj_files/integration/verilog/top.v'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yycti/Downloads/tb_conv.v'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.3/data/ip'.
+open_project: Time (s): cpu = 00:00:30 ; elapsed = 00:00:13 . Memory (MB): peak = 871.754 ; gain = 239.312
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Apr 12 16:19:25 2024...

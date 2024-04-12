@@ -22,7 +22,7 @@
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/video_stream/axi2bram.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/video_stream/axi2bram.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
@@ -57,14 +57,14 @@
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/debounce/debounce_inputs.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/debounce/debounce_inputs.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/debounce/debouncer.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/debounce/debouncer.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
@@ -78,14 +78,14 @@
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/dividers/divider_2.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/dividers/divider_2.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/dividers/divider_4.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/dividers/divider_4.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
@@ -99,91 +99,91 @@
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/video_stream/frame_read.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/video_stream/frame_read.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/hdmi/hdmi_ctrl.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/hdmi/hdmi_ctrl.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/hdmi/hdmi_out.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/hdmi/hdmi_out.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/hls_generated/img_filter.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/hls_generated/img_filter.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/hls_generated/img_filter_am_addhbi.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/hls_generated/img_filter_am_addhbi.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/hls_generated/img_filter_lineBubkb.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/hls_generated/img_filter_lineBubkb.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/hls_generated/img_filter_lineBucud.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/hls_generated/img_filter_lineBucud.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/hls_generated/img_filter_mac_muibs.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/hls_generated/img_filter_mac_muibs.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/hls_generated/img_filter_mac_mujbC.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/hls_generated/img_filter_mac_mujbC.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/hls_generated/img_filter_mac_mukbM.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/hls_generated/img_filter_mac_mukbM.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/hls_generated/img_filter_mul_42g8j.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/hls_generated/img_filter_mul_42g8j.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/hls_generated/img_filter_mul_66fYi.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/hls_generated/img_filter_mul_66fYi.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/hls_generated/img_filter_mux_83eOg.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/hls_generated/img_filter_mux_83eOg.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
@@ -211,7 +211,7 @@
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/uart/master_axi.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/uart/master_axi.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
@@ -225,14 +225,14 @@
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/video_stream/ov7670_init_regs.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/video_stream/ov7670_init_regs.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/sccb/ov7670_read.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/sccb/ov7670_read.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
@@ -246,7 +246,7 @@
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/video_stream/processing.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/video_stream/processing.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
@@ -274,21 +274,21 @@
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/sccb/sccb_ctrl.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/sccb/sccb_ctrl.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/sccb/sccb_read.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/sccb/sccb_read.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/sccb/sccb_write.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/sccb/sccb_write.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
@@ -309,21 +309,21 @@
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/hdmi/tmds_encoder.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/hdmi/tmds_encoder.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/uart/uart_ctrl.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/uart/uart_ctrl.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PPRDIR/../src/hdl/top.v">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/hdl/top.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
@@ -496,7 +496,7 @@
   </FileSet>
   <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
     <Filter Type="Constrs"/>
-    <File Path="$PPRDIR/../src/constraints/constraints.xdc">
+    <File Path="$PPRDIR/../../../../../Downloads/ECE532_proj_files/camera-system-top/camera_system-master/src/constraints/constraints.xdc">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
@@ -517,11 +517,11 @@
     <Step Id="synth_design"/>
   </Strategy>
   <BlockFileSet Type="BlockSrcs" Name="ram"/>
-  <BlockFileSet Type="BlockSrcs" Name="clk_wiz_0"/>
   <BlockFileSet Type="BlockSrcs" Name="linebuffer"/>
-  <BlockFileSet Type="BlockSrcs" Name="axi_uartlite_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="frame_buffer"/>
+  <BlockFileSet Type="BlockSrcs" Name="clk_wiz_0"/>
   <BlockFileSet Type="BlockSrcs" Name="fifo_data_buffer"/>
+  <BlockFileSet Type="BlockSrcs" Name="frame_buffer"/>
+  <BlockFileSet Type="BlockSrcs" Name="axi_uartlite_0"/>
   <BlockFileSet Type="BlockSrcs" Name="shift_reg_ram_1Bit"/>
   <BlockFileSet Type="BlockSrcs" Name="ram_data_in"/>
   <BlockFileSet Type="BlockSrcs" Name="maxpool_linebuffer"/>
