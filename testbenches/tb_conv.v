@@ -1,24 +1,4 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 江城白羊生姜�?
-// 
-// Create Date: 2023/12/30 12:16:17
-// Design Name: 
-// Module Name: tb_conv
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
 
 module tb_conv(
 
@@ -46,7 +26,7 @@ initial begin
     rst_n = 1'b1;
     #100
     
-    file = $fopen("C:/Users/yycti/Downloads/Mini_LeNet_Fashion_ov5640_modifiedV2zip/Mini_LeNet_Fashion_ov5640_modified/rpsRock1.txt","rb");
+    file = $fopen("rpsRock1.txt","rb"); //MODIFY the path!!
     if(file == 0)begin
         $display("[-] error");
         $stop;
@@ -125,7 +105,7 @@ Mini_LeNet Mini_LeNet(
 //     .clk            (clk    ),
 //     .rst_n          (rst_n  ),
 
-//     .data_in_1      (maxpool1_out_1),  //输入13*13
+//     .data_in_1      (maxpool1_out_1),  //è¾“å…¥13*13
 //     .data_in_2      (maxpool1_out_2),
 //     .data_in_3      (maxpool1_out_3),
 //     .data_in_valid  (maxpool1_out_valid),
@@ -164,7 +144,7 @@ Mini_LeNet Mini_LeNet(
 //     .clk            (clk    ),
 //     .rst_n          (rst_n  ),
 
-//     .data_in_1      (maxpool2_out_1),  //输入5*5
+//     .data_in_1      (maxpool2_out_1),  //è¾“å…¥5*5
 //     .data_in_2      (maxpool2_out_2),
 //     .data_in_3      (maxpool2_out_3),
 //     .data_in_valid  (maxpool2_out_valid),
