@@ -18,7 +18,23 @@ In the digital domain, hand gesture recognition plays a vital role in conveying 
 2. Pytorch <br>
 
 ## Design Tree & File Description
-xxx
+├── top.v  //top module that initiates modules
+│   ├── controller
+│   │   ├── **/*.css
+│   ├── views
+│   ├── model
+│   ├── index.js
+├── public
+│   ├── css
+│   │   ├── **/*.css
+│   ├── images
+│   ├── js
+│   ├── index.html
+├── dist (or build
+├── node_modules
+├── package.json
+├── package-lock.json
+└── .gitignore
 ## How to Run
 1. download and open .xpr file in the project folder
 2. synthesize
