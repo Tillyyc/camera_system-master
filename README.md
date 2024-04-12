@@ -18,23 +18,26 @@ In the digital domain, hand gesture recognition plays a vital role in conveying 
 2. Pytorch <br>
 
 ## Design Tree & File Description
-├── top.v  //top module that initiates modules
-│   ├── controller
-│   │   ├── **/*.css
-│   ├── views
-│   ├── model
-│   ├── index.js
-├── public
-│   ├── css
-│   │   ├── **/*.css
-│   ├── images
-│   ├── js
-│   ├── index.html
-├── dist (or build
-├── node_modules
-├── package.json
-├── package-lock.json
-└── .gitignore
+top.v
+1. divider_2.v
+2. divider_4.v
+3. debounce_inputs.v
+4. game_master //game logic
+    1.state_machine.v
+6. hmdi_ctrl.v //for hdmi output
+7. uart.v 
+8. sccb.v //for camera input
+9. cmos_capture_data.v //send data to CNN
+10. rgb2bin_process.v //grayscale the image
+11. key_debunce.v
+12. Mini_LeNet //CNN module
+    1. conv1
+    2. maxpool1
+    3. conv2
+    4. maxpool2
+    5. reshape
+    6. linear
+    7. predict 
 ## How to Run
 1. download and open .xpr file in the project folder
 2. synthesize
