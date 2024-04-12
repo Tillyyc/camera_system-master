@@ -24,6 +24,6 @@ xx
 ## Related Links
 Slides: [FinalDemo_Slides_Group14.pdf](Documents/FinalDemo_Slides_Group14.pdf) <br>
 Reports: <br>
-Youtube Video Demo:
+Youtube Video Demo: [rps video - gesture detection part](https://www.youtube.com/watch?v=sVDGybcSSL8)
 
  
