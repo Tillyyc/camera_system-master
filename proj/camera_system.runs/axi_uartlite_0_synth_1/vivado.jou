@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sun Mar 24 17:58:52 2024
+# Process ID: 14340
+# Current directory: C:/Users/nuha/Desktop/ece532_project/camera-system-top/camera_system-master/proj/camera_system.runs/axi_uartlite_0_synth_1
+# Command line: vivado.exe -log axi_uartlite_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source axi_uartlite_0.tcl
+# Log file: C:/Users/nuha/Desktop/ece532_project/camera-system-top/camera_system-master/proj/camera_system.runs/axi_uartlite_0_synth_1/axi_uartlite_0.vds
+# Journal file: C:/Users/nuha/Desktop/ece532_project/camera-system-top/camera_system-master/proj/camera_system.runs/axi_uartlite_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source axi_uartlite_0.tcl -notrace

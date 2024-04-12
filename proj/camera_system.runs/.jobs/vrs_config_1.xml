@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="ram_synth_1" LaunchDir="C:/Users/nuha/Desktop/ece532_project/camera-system-top/camera_system-master/proj/camera_system.runs/ram_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="clk_wiz_0_synth_1" LaunchDir="C:/Users/nuha/Desktop/ece532_project/camera-system-top/camera_system-master/proj/camera_system.runs/clk_wiz_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="axi_uartlite_0_synth_1" LaunchDir="C:/Users/nuha/Desktop/ece532_project/camera-system-top/camera_system-master/proj/camera_system.runs/axi_uartlite_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="frame_buffer_synth_1" LaunchDir="C:/Users/nuha/Desktop/ece532_project/camera-system-top/camera_system-master/proj/camera_system.runs/frame_buffer_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="fifo_generator_0_synth_1" LaunchDir="C:/Users/nuha/Desktop/ece532_project/camera-system-top/camera_system-master/proj/camera_system.runs/fifo_generator_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="synth_1" LaunchDir="C:/Users/nuha/Desktop/ece532_project/camera-system-top/camera_system-master/proj/camera_system.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="ram_synth_1"/>
+		<Parent Id="clk_wiz_0_synth_1"/>
+		<Parent Id="axi_uartlite_0_synth_1"/>
+		<Parent Id="frame_buffer_synth_1"/>
+		<Parent Id="fifo_generator_0_synth_1"/>
+	</Run>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+	</Parameters>
+</Runs>
+

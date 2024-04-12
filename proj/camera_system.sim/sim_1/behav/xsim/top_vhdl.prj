@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../camera_system.srcs/sources_1/ip/shift_reg_ram_1Bit/sim/shift_reg_ram_1Bit.vhd" \
+"../../../../../src/ip/axi_uartlite_0_1/sim/axi_uartlite_0.vhd" \
+
+# Do not sort compile order
+nosort

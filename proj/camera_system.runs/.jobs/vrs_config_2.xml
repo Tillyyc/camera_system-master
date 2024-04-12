@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="shift_reg_ram_1Bit_synth_1" LaunchDir="C:/Users/nuha/Desktop/ece532_project/camera-system-top/camera_system-master/proj/camera_system.runs/shift_reg_ram_1Bit_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+	</Parameters>
+</Runs>
+

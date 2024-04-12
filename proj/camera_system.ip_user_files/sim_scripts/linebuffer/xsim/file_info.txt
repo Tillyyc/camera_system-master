@@ -1,0 +1,2 @@
+linebuffer.v,verilog,xil_defaultlib,../../../../camera_system.srcs/sources_1/ip/linebuffer/sim/linebuffer.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

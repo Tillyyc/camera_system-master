@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sun Mar 24 18:45:54 2024
+# Process ID: 5192
+# Current directory: C:/Users/nuha/Desktop/ece532_project/camera-system-top/camera_system-master/proj/camera_system.runs/conv2_linebuffer_synth_1
+# Command line: vivado.exe -log conv2_linebuffer.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source conv2_linebuffer.tcl
+# Log file: C:/Users/nuha/Desktop/ece532_project/camera-system-top/camera_system-master/proj/camera_system.runs/conv2_linebuffer_synth_1/conv2_linebuffer.vds
+# Journal file: C:/Users/nuha/Desktop/ece532_project/camera-system-top/camera_system-master/proj/camera_system.runs/conv2_linebuffer_synth_1\vivado.jou
+#-----------------------------------------------------------
+source conv2_linebuffer.tcl -notrace
