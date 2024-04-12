@@ -22,8 +22,7 @@ top.v
 1. divider_2.v
 2. divider_4.v
 3. debounce_inputs.v
-4. game_master //game logic
-    1.state_machine.v
+4. game_master/state_machine.v //game logic
 6. hmdi_ctrl.v //for hdmi output
 7. uart.v 
 8. sccb.v //for camera input
