@@ -18,18 +18,18 @@ In the digital domain, hand gesture recognition plays a vital role in conveying 
 2. Pytorch <br>
 
 ## Design Tree & File Description
-top.v
-1. divider_2.v
-2. divider_4.v
+top.v //top module that instaniate all the following modules
+1. divider_2.v //clock divider clk50
+2. divider_4.v //clock divider clk23
 3. debounce_inputs.v
 4. game_master/state_machine.v //game logic
 6. hmdi_ctrl.v //for hdmi output
-7. uart.v 
-8. sccb.v //for camera input
-9. cmos_capture_data.v //send data to CNN
-10. rgb2bin_process.v //grayscale the image
-11. key_debunce.v
-12. Mini_LeNet //CNN module
+8. uart.v 
+9. sccb.v //for camera input
+10. cmos_capture_data.v //send data to CNN
+11. rgb2bin_process.v //grayscale the image
+12. key_debunce.v
+13. Mini_LeNet //CNN module
     1. conv1
     2. maxpool1
     3. conv2
